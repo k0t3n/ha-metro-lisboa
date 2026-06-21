@@ -4,6 +4,8 @@
 
 A Home Assistant custom integration that tracks the service status of all Lisbon Metro lines in real time.
 
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=k0t3n&repository=ha-metro-lisboa&category=integration)
+
 ## Sensors
 
 Four binary sensors are created, one per line, grouped under a single **Metro de Lisboa** device:
@@ -30,11 +32,7 @@ Status is polled every **5 minutes**.
 
 ### HACS (recommended)
 
-1. In Home Assistant, open **HACS → Integrations**
-2. Click the three-dot menu → **Custom repositories**
-3. Add `https://github.com/k0t3n/ha-metro-lisboa` with category **Integration**
-4. Search for **Metro Lisboa** and install it
-5. Restart Home Assistant
+Click the button above, or add `https://github.com/k0t3n/ha-metro-lisboa` as a custom repository in HACS with category **Integration**, then install and restart Home Assistant.
 
 ### Manual
 
