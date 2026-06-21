@@ -26,7 +26,7 @@ Each sensor exposes two attributes:
 | `status` | `Ok` / `circulação com atrasos. O tempo de espera pode ser superior ao normal.` |
 | `message_type` | `0` (no message) |
 
-Status is polled every **5 minutes**.
+Status is polled every **1 minute**.
 
 ## Installation
 

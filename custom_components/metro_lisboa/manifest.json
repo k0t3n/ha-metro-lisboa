@@ -1,7 +1,7 @@
 {
   "domain": "metro_lisboa",
   "name": "Metro Lisboa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "documentation": "https://github.com/k0t3n/ha-metro-lisboa",
   "issue_tracker": "https://github.com/k0t3n/ha-metro-lisboa/issues",
   "dependencies": [],

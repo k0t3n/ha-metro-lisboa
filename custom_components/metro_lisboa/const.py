@@ -1,6 +1,6 @@
 DOMAIN = "metro_lisboa"
 API_URL = "https://app.metrolisboa.pt/status/getLinhas.php"
-SCAN_INTERVAL = 5  # minutes
+SCAN_INTERVAL = 1  # minutes
 
 LINES: dict[str, str] = {
     "amarela": "Linha Amarela",
