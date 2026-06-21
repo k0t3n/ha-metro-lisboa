@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Metro Lisboa",
+        "description": "Adiciona sensores com o estado de circulação de cada linha do Metro de Lisboa. Não é necessária qualquer configuração — clique em Submeter para instalar."
+      }
+    },
+    "abort": {
+      "already_configured": "O Metro Lisboa já está configurado."
+    }
+  }
+}

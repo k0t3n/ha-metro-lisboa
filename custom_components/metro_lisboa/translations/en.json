@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Metro Lisboa",
+        "description": "Adds sensors for each metro line status. No configuration required — click Submit to install."
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot reach the Metro Lisboa API. Check your internet connection."
+    },
+    "abort": {
+      "already_configured": "Metro Lisboa is already configured."
+    }
+  }
+}

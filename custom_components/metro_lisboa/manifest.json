@@ -1,0 +1,13 @@
+{
+  "domain": "metro_lisboa",
+  "name": "Metro Lisboa",
+  "version": "1.0.0",
+  "documentation": "https://github.com/k0t3n/ha-metro-lisboa",
+  "issue_tracker": "https://github.com/k0t3n/ha-metro-lisboa/issues",
+  "dependencies": [],
+  "codeowners": ["@k0t3n"],
+  "requirements": [],
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "single_config_entry": true
+}
